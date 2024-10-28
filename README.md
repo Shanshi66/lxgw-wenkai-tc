@@ -1,4 +1,4 @@
-# LXGW WenKai Regular
+# LXGW WenKai TC
 
 ## 字体
 
