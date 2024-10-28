@@ -15,4 +15,3 @@ https://chinese-font.netlify.app/online-split
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Shanshi66/lxgw-wenkai-tc@main/regular/result.css">
 ```
-# lxgw-wenkai-tc
